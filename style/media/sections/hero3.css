@@ -1,0 +1,42 @@
+@media (max-width: 1170px) and (min-width: 970px) {
+        .Hero3,
+    .Main-hero3 {
+        width: 100% !important;
+        height: auto;
+    }
+}
+
+@media (max-width: 970px) and (min-width: 0px) {
+
+    .Hero3,
+    .Main-hero3 {
+        width: 100% !important;
+        height: auto;
+    }
+.Main-hero3{
+    gap: 30px !important;
+}
+
+    .H3C1 {
+        font-size: 16px !important;
+    }
+
+    .H3C2 {
+        font-size: 12px !important;
+    }
+
+    .H3C3 {
+        font-size: 14px !important;
+    }
+
+    .featured {
+        width: 100% !important;
+         gap: 10px;
+    }
+     .Hero3-side1,
+ .Hero3-bottomright,
+ .Hero3-topside,
+ .Hero3-bottomleft {
+ padding: 62px; 
+}
+}

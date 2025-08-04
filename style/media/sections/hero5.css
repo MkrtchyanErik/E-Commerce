@@ -1,0 +1,25 @@
+.Hero5{
+    width: 1170px;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 70px;
+}
+.Hero3_Div{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    align-items: center;
+}
+.Hero3_Div div{
+    margin-bottom: 16px;
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 11px solid gray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: black;
+}

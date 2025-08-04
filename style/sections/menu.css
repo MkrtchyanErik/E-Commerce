@@ -1,0 +1,22 @@
+.menu {
+    height: 48px;
+    width: 100%;
+    background-color: black;
+}
+
+.menu div {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: end;
+    gap: 222px;
+    padding: 0 200px;
+}
+
+.a {
+    display: flex;
+    gap: 15px;
+}

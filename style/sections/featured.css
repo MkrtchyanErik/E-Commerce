@@ -1,0 +1,27 @@
+.main-featured{
+    width: 1170px;
+    margin: 0 auto;
+}
+ .featured {
+     width: 1170px;
+     margin: 0 auto;
+     display: flex;
+     flex-direction: column;
+     gap: 20px;
+ }
+
+ .featdiv {
+     display: flex;
+     gap: 10px;
+     align-items: center;
+ }
+
+ .featdiv div {
+     border-radius: 4px;
+     height: 40px;
+     min-width: 20px;
+     
+ }
+ .star{
+    display: flex;
+ }

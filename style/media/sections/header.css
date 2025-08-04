@@ -1,0 +1,48 @@
+@media (min-width: 1124px) and (max-width: 1400px) {
+    header {
+        padding: 0 100px !important;
+    }
+}
+
+@media (min-width: 985px) and (max-width: 1124px) {
+    header {
+        padding: 0 35px !important;
+    }
+}
+
+@media (min-width: 945px) and (max-width: 985px) {
+    header {
+        padding: 0 10px !important;
+    }
+
+}
+
+@media (min-width: 0px) and (max-width: 945px) {
+    .pgs {
+        display: block !important;
+    }
+
+    header nav a {
+        display: none !important;
+    }
+
+    header {
+        justify-content: space-around;
+        padding: 0 0px !important;
+    }
+
+    .navi {
+        display: block;
+        display: flex;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .i1 {
+        width: 150px;
+    }
+
+    .i1 input::placeholder {
+        font-size: 8px !important;
+    }
+}

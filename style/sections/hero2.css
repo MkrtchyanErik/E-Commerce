@@ -1,0 +1,64 @@
+.Hero2 {
+    width: 1170px;
+    height: 500px;
+    margin: 0 auto;
+    background-image: url(/images/hero2\ image.jpg);
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    margin-top: 70px;
+    
+}
+.main_Hero2{
+    margin-top: 70px;
+}
+
+.fhero2 {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    padding-left: 56px;
+    row-gap: 40px;
+    width: 100%;
+    height: 100%;
+    padding-top: 50px;
+    position: absolute !important;
+    left: 0 !important;
+    top: 0 !important;
+    width: 100% !important;
+}
+
+.fh2 {
+    position: relative;
+    margin-top: -8px;
+}
+
+.hero2img {
+    display: none !important;
+}
+
+
+.k {
+    display: flex;
+    gap: 24px;
+}
+
+
+.klor {
+    width: 62px;
+    height: 62px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+
+.Hero2 button {
+    height: 56px;
+    width: 171px;
+    box-shadow: 0px 0px 10px 5px #00ff66;
+    border: none;
+    border-radius: 5px;
+}

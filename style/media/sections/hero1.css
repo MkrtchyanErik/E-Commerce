@@ -1,0 +1,97 @@
+@media (max-width: 1170px) and (min-width: 1115px) {
+    .Hero {
+        width: 100% !important;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 1115px) and (min-width: 750px) {
+    .Hero {
+        width: 100% !important;
+        flex-direction: column !important;
+    }
+
+    .h2img {
+        display: block !important;
+    }
+
+    .h2 {
+        background-image: none !important;
+        padding-left: 0px !important;
+        width: 100% !important;
+    }
+
+    .apple {
+        position: absolute !important;
+        left: 65px !important;
+        height: 100% !important;
+    }
+
+
+    .h1 {
+        width: 100% !important;
+        display: flex !important;
+        flex-wrap: wrap !important;
+        height: 100px;
+        position: relative !important;
+        padding-bottom: 20px ;
+    }
+
+}
+
+
+@media (max-width:750px) and (min-width: 0px) {
+    .Hero {
+        width: 100% !important;
+        flex-direction: column !important;
+    }
+
+    .h2img {
+        display: block !important;
+    }
+
+    .h2 {
+        background-image: none !important;
+        padding-left: 0px !important;
+        width: 100% !important;
+    }
+
+    .apple {
+        position: absolute !important;
+        left: 65px !important;
+        height: 100% !important;
+    }
+
+
+    .h1 {
+        width: 100% !important;
+        display: flex !important;
+        flex-wrap: wrap !important;
+        height: 100px !important;
+        justify-content: space-between !important;
+    }
+
+    .appp {
+        font-size: 12px !important;
+    }
+
+    .fa-apple {
+        font-size: 35px !important;
+    }
+
+    .jkp {
+        font-size: 20px !important;
+    }
+
+    .shopnow p {
+        font-size: 12px !important;
+    }
+
+    .fa-arrow-right {
+        font-size: 15px !important;
+    }
+
+    .app {
+        gap: 12px !important;
+    }
+}

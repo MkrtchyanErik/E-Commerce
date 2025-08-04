@@ -1,0 +1,11 @@
+@media (min-width: 0px) and (max-width: 985px) {
+    footer{
+        flex-direction: column !important;
+        height: auto;
+        row-gap: 50px;
+        padding: 50px 50px !important;
+    }
+    .f5{
+        margin-bottom: 50px;
+    }
+}

@@ -1,0 +1,87 @@
+.Hero {
+    width: 1170px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    height: 384px;
+    padding-top: 40px;
+    margin-top: -110px;
+    margin-bottom: 70px;
+
+}
+
+
+.h1 {
+    display: flex;
+    flex-direction: column;
+    border-right: 0.5px solid black;
+    justify-content: space-between;
+    padding-left: 16px;
+    width: 220px;
+    padding-top: 40px;
+
+}
+.h1 a{
+    transition: 0.5s;
+}
+.h1 a:hover{
+    filter: brightness(0.8);
+    color: blue;
+}
+
+.a {
+    display: flex;
+    gap: 30px;
+}
+
+.fa-apple {
+    color: white;
+}
+
+.h2 {
+    background-image: url(/images/hero1\ image.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 892px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding-left: 64px;
+    margin-top: 40px;
+}
+
+.h2img{
+    display: none;
+}
+
+.h2 p {
+    color: white;
+}
+
+.fa-apple {
+    font-size: 50px !important;
+}
+
+.apple {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+}
+
+.app{
+    display: flex;
+    align-items: center;
+    gap: 24px;
+}
+
+
+.fa-arrow-right {
+    color: white;
+    font-size: 25px !important;
+}
+
+.shopnow {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}

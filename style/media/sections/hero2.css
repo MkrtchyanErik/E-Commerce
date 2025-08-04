@@ -1,0 +1,339 @@
+@media (max-width: 1170px) and (min-width: 1110px) {
+    .Hero2 {
+        width: 100% !important;
+        background: none !important;
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .fhero2 {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .hero2img {
+        display: block !important;
+        position: relative;
+        width: 100% !important;
+
+    }
+
+}
+
+
+@media (max-width: 1110px) and (min-width: 960px) {
+    .Hero2 {
+        width: 100% !important;
+        background: none !important;
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .fhero2 {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .hero2img {
+        display: block !important;
+        position: relative !important;
+        width: 100% !important;
+    }
+
+    .fhero2 {
+        padding-left: 28px !important;
+        row-gap: 20px !important;
+        width: 100% !important;
+        height: 100% !important;
+        padding-top: 45px !important;
+    }
+}
+
+
+@media (max-width: 960px) and (min-width: 820px) {
+    .Hero2 {
+        width: 100% !important;
+        background: none !important;
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+
+
+
+    .fhero2 {
+        position: absolute;
+        left: 0 !important;
+        top: 50px !important;
+        width: 100% !important;
+    }
+
+    .hero2img {
+        display: block !important;
+        position: relative !important;
+        width: 100% !important;
+    }
+
+    .fh1 {
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+
+    .fh2 {
+        font-size: 24px !important;
+        font-weight: 600 !important;
+    }
+
+    .fhero2 {
+        padding-left: 30px !important;
+        row-gap: 25px !important;
+        width: 100% !important;
+        height: 100% !important;
+        padding-top: 13px !important;
+    }
+
+    .klor {
+        width: 45px;
+        height: 45px;
+
+    }
+
+    .klor p:nth-child(1) {
+        font-size: 11px;
+        font-weight: 400;
+    }
+
+    .klor p:nth-child(2) {
+        font-size: 7px;
+        font-weight: 300;
+    }
+
+    .Hero2 button {
+        height: 45px;
+        width: 150px;
+    }
+
+}
+
+@media (max-width: 960px) and (min-width: 665px) {
+    .Hero2 {
+        width: 100% !important;
+        background: none !important;
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .fhero2 {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .hero2img {
+        display: block !important;
+        position: relative;
+        width: 100% !important;
+
+    }
+
+
+
+    .fh1 {
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+
+    .fh2 {
+        font-size: 20px !important;
+        font-weight: 600 !important;
+    }
+
+    .fhero2 {
+        padding-left: 30px !important;
+        row-gap: 15px !important;
+        width: 100% !important;
+        height: 100% !important;
+        padding-top: 40px !important;
+    }
+
+    .klor {
+        width: 45px;
+        height: 45px;
+
+    }
+
+    .klor p:nth-child(1) {
+        font-size: 11px;
+        font-weight: 400;
+    }
+
+    .klor p:nth-child(2) {
+        font-size: 7px;
+        font-weight: 300;
+    }
+
+    .Hero2 button {
+        height: 45px;
+        width: 150px;
+    }
+
+    .k {
+        gap: 20px !important;
+    }
+
+}
+
+
+@media (max-width: 665px) and (min-width: 552px) {
+    .Hero2 {
+        width: 100% !important;
+        background: none !important;
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .fhero2 {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .hero2img {
+        display: block !important;
+        position: relative;
+        width: 100% !important;
+
+    }
+
+
+
+    .fh1 {
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+
+    .fh2 {
+        font-size: 18px !important;
+        font-weight: 600 !important;
+    }
+
+    .fhero2 {
+        padding-left: 30px !important;
+        row-gap: 15px !important;
+        width: 100% !important;
+        height: 100% !important;
+        padding-top: 20px !important;
+    }
+
+    .k {
+        gap: 10px !important;
+    }
+
+    .klor {
+        width: 40px;
+        height: 40px;
+
+    }
+
+    .klor p:nth-child(1) {
+        font-size: 11px;
+        font-weight: 400;
+    }
+
+    .klor p:nth-child(2) {
+        font-size: 7px;
+        font-weight: 300;
+    }
+
+    .Hero2 button {
+        height: 35px;
+        width: 130px;
+    }
+}
+
+
+@media (max-width: 552px) and (min-width: 0px) {
+    .Hero2 {
+        width: 100% !important;
+        background: none !important;
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .fhero2 {
+        position: absolute !important;
+        left: 0 !important;
+        top: 0 !important;
+        width: 100% !important;
+    }
+
+    .hero2img {
+        display: block !important;
+        position: relative;
+        width: 100% !important;
+
+    }
+
+
+
+    .fh1 {
+        font-size: 12px !important;
+        font-weight: 400 !important;
+    }
+
+    .fh2 {
+        font-size: 18px !important;
+        font-weight: 600 !important;
+    }
+
+    .fhero2 {
+        padding-left: 20px !important;
+        row-gap: 10px !important;
+        width: 100% !important;
+        height: 100% !important;
+        padding-top: 15px !important;
+    }
+
+    .k {
+        gap: 10px !important;
+    }
+
+    .klor {
+        width: 35px;
+        height: 35px;
+
+    }
+
+    .klor p:nth-child(1) {
+        font-size: 11px;
+        font-weight: 400;
+    }
+
+    .klor p:nth-child(2) {
+        font-size: 7px;
+        font-weight: 300;
+    }
+
+    .Hero2 button {
+        height: 35px;
+        width: 130px;
+    }
+}

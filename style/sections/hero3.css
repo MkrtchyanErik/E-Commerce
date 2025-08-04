@@ -1,0 +1,70 @@
+ .Hero3 * {
+     background-repeat: no-repeat;
+     background-size: cover;
+     background-position: center center;
+ }
+
+ .Hero3-side1,
+ .Hero3-bottomright,
+ .Hero3-topside,
+ .Hero3-bottomleft {
+     transition: 0.3s ease;
+ }
+
+ .Hero3-side1:hover,
+ .Hero3-bottomright:hover,
+ .Hero3-topside:hover,
+ .Hero3-bottomleft:hover {
+     filter: brightness(0.8);
+ }
+.Main-hero3{
+    width: 1170px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    margin-top: 70px;
+}
+
+ .Hero3 {
+     display: flex;
+     gap: 30px;
+     color: white;
+     width: 1170px;
+     margin: 0 auto;
+     height: 600px;
+ }
+
+ .Hero3-side1,
+ .Hero3-bottomright,
+ .Hero3-topside,
+ .Hero3-bottomleft {
+     width: 50%;
+     display: flex;
+     align-items: end;
+     padding: 32px;
+ }
+
+ .Hero3-side2 {
+     width: 50%;
+     display: flex;
+     flex-direction: column;
+     gap: 30px;
+ }
+
+ .Hero3-topside,
+ .Hero3-bottomside {
+     width: 100%;
+     height: 50%;
+ }
+
+ .Hero3-bottomright,
+ .Hero3-bottomleft {
+     width: 50%;
+     height: 100%;
+ }
+
+ .Hero3-bottomside {
+     display: flex;
+     gap: 30px;
+ }
